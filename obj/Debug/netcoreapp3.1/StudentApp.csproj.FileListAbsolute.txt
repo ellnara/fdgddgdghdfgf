@@ -1,0 +1,14 @@
+C:\Users\Emil Hajizade\source\repos\StudentApp\StudentApp\bin\Debug\netcoreapp3.1\StudentApp.exe
+C:\Users\Emil Hajizade\source\repos\StudentApp\StudentApp\bin\Debug\netcoreapp3.1\StudentApp.deps.json
+C:\Users\Emil Hajizade\source\repos\StudentApp\StudentApp\bin\Debug\netcoreapp3.1\StudentApp.runtimeconfig.json
+C:\Users\Emil Hajizade\source\repos\StudentApp\StudentApp\bin\Debug\netcoreapp3.1\StudentApp.runtimeconfig.dev.json
+C:\Users\Emil Hajizade\source\repos\StudentApp\StudentApp\bin\Debug\netcoreapp3.1\StudentApp.dll
+C:\Users\Emil Hajizade\source\repos\StudentApp\StudentApp\bin\Debug\netcoreapp3.1\StudentApp.pdb
+C:\Users\Emil Hajizade\source\repos\StudentApp\StudentApp\obj\Debug\netcoreapp3.1\StudentApp.csproj.AssemblyReference.cache
+C:\Users\Emil Hajizade\source\repos\StudentApp\StudentApp\obj\Debug\netcoreapp3.1\StudentApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Emil Hajizade\source\repos\StudentApp\StudentApp\obj\Debug\netcoreapp3.1\StudentApp.AssemblyInfoInputs.cache
+C:\Users\Emil Hajizade\source\repos\StudentApp\StudentApp\obj\Debug\netcoreapp3.1\StudentApp.AssemblyInfo.cs
+C:\Users\Emil Hajizade\source\repos\StudentApp\StudentApp\obj\Debug\netcoreapp3.1\StudentApp.csproj.CoreCompileInputs.cache
+C:\Users\Emil Hajizade\source\repos\StudentApp\StudentApp\obj\Debug\netcoreapp3.1\StudentApp.dll
+C:\Users\Emil Hajizade\source\repos\StudentApp\StudentApp\obj\Debug\netcoreapp3.1\StudentApp.pdb
+C:\Users\Emil Hajizade\source\repos\StudentApp\StudentApp\obj\Debug\netcoreapp3.1\StudentApp.genruntimeconfig.cache
